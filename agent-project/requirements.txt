@@ -1,6 +1,10 @@
 langchain
 langchain-community
-langchain-siliconflow
+langchain-openai
+langchain-chroma
+langgraph
+langgraph-prebuilt
 chromadb
 python-dotenv
 tavily
+sentence-transformers
